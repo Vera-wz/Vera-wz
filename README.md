@@ -118,5 +118,5 @@ Built an end-to-end real-time audio analysis application with Swift frontend and
 ---
 
 <p align="center">
-  <i>"I don't just build models — I build complete AI products that people can use."</i>
+  <i>"Trying to Run Before AI the Bubble Bursts."</i>
 </p>
